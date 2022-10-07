@@ -1,1 +1,1 @@
-my repository in cocolog
+my repository in cocolog now updated
